@@ -5,6 +5,11 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
+  
+  //Configuración para utilizar GitHub Pages
+  site: 'https://Vedroom.github.io',
+  base: 'medical-quiz',
+
   // Esto habilita APIs dinámicas
   output: "server",
 
