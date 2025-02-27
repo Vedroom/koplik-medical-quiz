@@ -34,7 +34,7 @@ cd backend
 npm install
 npm start
 ```
-Por defecto, la API debería estar accesible en [http://localhost:3000/api/questions](http://localhost:3000/api/questions).
+Por defecto, la API debería estar accesible en [http://localhost:4321/api/questions](http://localhost:4321/api/questions).
 
 ## 🛠️ Tecnologías Utilizadas
 
